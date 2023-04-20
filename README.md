@@ -1,4 +1,4 @@
-# Deep_Learning
+# Deep_Learning Project: **Land-Use Scene Classification**
 ## Dataset
 The dataset used in this project is available at the following link ()
 it is composed by 500 images for each of the 21 classes and the original size of the images is 256x256 pixels.
