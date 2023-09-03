@@ -1,7 +1,16 @@
 # Deep_Learning Project: **Land-Use Scene Classification**
-## Dataset
-The dataset used in this project is available at the following [link](https://www.kaggle.com/datasets/apollo2506/landuse-scene-classification/code). \
-It is composed by 500 images for each of the 21 classes and the original size of the images is 256x256 pixels.\
-All the images are characterized by the pixel resolution of 1 foot.\
-The aim of the project is to train a neural network in order to correctly classify the satellite images.  
+🌍 Satellite Image Classification
+
+Explore the world from above! 🛰️
+
+Discover and classify satellite images from a diverse dataset of 21 unique categories. With 500 high-resolution images per class, each boasting a pixel-perfect 256x256 resolution, you'll dive deep into the world of Earth's pixelated beauty.
+
+📸 Dataset Details:
+- 21 Fascinating Categories
+- 500 Images per Category
+- Stunning 256x256 Pixel Artistry
+- Ground Truth: 1 Foot per Pixel
+
+Our mission? Harness the power of neural networks! Join us as we journey through various neural architectures, striving to master the art of satellite image classification. 🚀🧠
+
 
