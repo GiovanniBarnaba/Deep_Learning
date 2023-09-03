@@ -13,6 +13,6 @@ Discover and classify satellite images from a diverse dataset of 21 unique categ
 
 Our mission? Harness the power of neural networks! Join us as we journey through various neural architectures, striving to master the art of satellite image classification. 🚀🧠
 
-📔 Check out the [Colab Notebook](https://link-to-your-colab-notebook) for More Details!
+📔 Check out the [Colab Notebook]([https://link-to-your-colab-notebook](https://github.com/GiovanniBarnaba/Deep_Learning/blob/main/DLProject.ipynb)https://github.com/GiovanniBarnaba/Deep_Learning/blob/main/DLProject.ipynb) for More Details!
 
 
